@@ -1,0 +1,103 @@
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+/*main style*/
+main{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+/* shared style*/
+.common-title{
+    font-size: 40px;
+font-weight: 700;
+margin-top: 80px;
+}
+.blue-color{
+    background-color: #5490F533;
+}
+.green-color{
+    background-color: #C6E4D6;
+}
+.yellow-color{
+    background-color: #F7EBCF;
+}
+.common-btn{
+    width: 122px;
+height: 41px;
+border-radius: 8px;
+font-size: 16px;
+font-weight: 600;
+color: white;
+background-color:#5490F5 ;
+border: none;
+
+}
+/**/
+/* nav style*/
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 31px 0;
+}
+.nav-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+.nav-btn{
+    width: 116px;
+height: 52px;
+border: 1px solid rgb(0, 106, 80);
+border-radius: 8px;
+color: #006A50;
+font-size: 18px;
+font-weight: 600;
+}
+/* explore card style*/
+.explore-card{
+    background-color:#C6E4D6 ;
+    height: 560px;
+    border-radius: 24px;
+   display: flex;
+   padding: 80px 59px;
+}
+.card-title{
+    font-size: 24px;
+    font-weight: 500;
+    color: #0E0E0E80;
+}
+.card-info{
+    font-size: 56px;
+    font-weight: 700;
+}
+.card-btn{
+border-radius: 8px;
+background: rgb(0, 106, 80);
+color: white;
+width: 270px;
+height: 56px;
+}
+.Bijoy{
+    width: 474.03px;
+height: 400px;
+}
+/* piller sections style*/
+
+.piller-info{
+   
+}
+.piller-section{
+    display: flex;
+    gap: 24px;
+}
+.piller-card{
+    width: 410.67px;
+    height: 325px;
+    padding: 32px;
+    border-radius: 16px;
+}
+
+
